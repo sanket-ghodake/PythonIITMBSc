@@ -1,1 +1,3 @@
-print(1 and 50)
+"Hello \bWorld!"
+a = 'sa'
+print(a[3:])
